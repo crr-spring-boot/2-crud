@@ -1,2 +1,2 @@
-# 2-crud
-간단한 Spring boot  Create Read Update Delete
+# 1-basic-sample
+스프링부트 초기 설정값 프로젝트
